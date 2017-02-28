@@ -41,7 +41,7 @@ package neha.java.concepts;
 		public static void main(String[] args) {
 			/*
 			 * Mom1 mom1=new Child1(); because of this statement this code is  pure example of 
-			 * dynamic inheritance(superclass's all method +subclass's overridden method is called by superclass's reference(which refers to subclass's object.)).
+			 * dynamic Polymorphism(superclass's all method +subclass's overridden method is called by superclass's reference(which refers to subclass's object.)).
 			 */
 			
 			Mom1 mom1=new Child1(); 
